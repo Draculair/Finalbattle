@@ -15,20 +15,20 @@
 ### 1.主要的class
 如图
 <div>
-    <img src="images\1.png" width=70%>
+    <img src="images\1.png" width=30%>
 </div>
 
 #### a.character
 如图
 <div>
-    <img src="images\2.png" width=30%>
+    <img src="images\2.png" width=90%>
 </div>
 其中package stggc中有stggc_teammember和stggc_student，package university中有shimada_alice和shimada_chiyo和university_student。
 
 #### b.replay
 如图
 <div>
-    <img src="images\3.png" width=40%>
+    <img src="images\3.png" width=90%>
 </div>
 需要解释一下的是我是通过记录选手们每一个回合的走位和作出的攻击动作来记录战况的，所以就有Movement和Action类，然后用Record把它们聚合起来
 成为真正的记录。class Replay是用来回放数据用的，counter是纯粹为了实现一个多线程的环境来播放画面，顺便记录一下播了的画面数。serialize
