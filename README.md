@@ -13,10 +13,10 @@
 单击“存档”会弹出对话框让用户选择需要保存记录的文件夹并自动保存记录“Record.txt“。请注意，复盘的时候一定要读取record文件，所以最好先存档。
 效果如图
 <div>
-    <img src="images\start.png" width=60%>
+    <img src="images\start.gif" width=60%>
 </div>
 <div>
-    <img src="images\save&load.png" width=60%>
+    <img src="images\save&load.gif" width=60%>
 </div>
 
 ## 3.项目结构
