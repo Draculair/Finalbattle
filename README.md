@@ -14,11 +14,11 @@
 效果如图  
 开始  
 <div>
-    <img src="images\start.gif" width=90%>
+    <img src="images\start.gif" width=120%>
 </div>
 存档和复盘
 <div>
-    <img src="images\save&load.gif" width=90%>
+    <img src="images\save&load.gif" width=120%>
 </div>
 
 ## 3.项目结构
